@@ -1,13 +1,14 @@
-let arr = [1, 1, 1, 1, 1, 2, 3, 4, 4, 5, 5];
-let clean = [];
+let arr = [1, 1, 5, 5, 5, 6, 4];
+let bababibo = 5;
+let braP = 0;
 
-
-for(i = 0; i < arr.length; i++){
-    if(clean.has([i])){
-        
+for (let i = 0; i < arr.length; i++){
+    if (arr[i] === bababibo){
+        braP++;
     }
+}
 
-};
+console.log(braP);
 
 
 
