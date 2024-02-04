@@ -1,0 +1,1 @@
+document.getElementById('amungas').innerHTML = "Sveiki, aš esu naujas tekstas!";
