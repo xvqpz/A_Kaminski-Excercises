@@ -1,0 +1,8 @@
+.mama{
+    width: 90%;
+    height: auto;
+    display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns with equal width */
+  grid-gap: 10px; /* Gap between grid items */
+  margin-left: 30px;
+}

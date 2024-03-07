@@ -1,0 +1,12 @@
+.box1{
+    background-color: rgb(255, 247, 0);
+    color: rgb(0, 0, 0);
+    width: 130px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+.text1{
+    color: rgb(0, 0, 0);
+    margin: auto;
+}

@@ -1,0 +1,12 @@
+.box4{
+    background-color: rgb(70, 70, 70);
+    color: white;
+    width: 130px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+.text4{
+    color: white;
+    margin: auto;
+}
