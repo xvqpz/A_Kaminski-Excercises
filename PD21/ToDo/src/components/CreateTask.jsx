@@ -7,7 +7,7 @@ function CreateTask(){
     
     return(
         <>
-        <div className='flex flex-row gap-[14.5rem] mt-4'>
+        <div className='flex flex-row gap-[20rem] mt-4'>
         <div>
             <h2 className='font-bold w-32 text-2xl'>Task List</h2>
         </div>
