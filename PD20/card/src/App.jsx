@@ -5,7 +5,7 @@ function App() {
   const [available, setAvailable] = useState(false);
 
   useEffect(() => {
-    setAvailable(true);
+    setAvailable(true); //cia pakeist kad veiktu ir neveiktu
   }, []);
 
   return (
